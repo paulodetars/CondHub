@@ -1,0 +1,6 @@
+{
+  "name": "CondoHub",
+  "description": "Plataforma inteligente para gestão, transparência financeira e governança condominial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
